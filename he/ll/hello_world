@@ -1,1 +1,1 @@
-{"0.0.0":{"name":"hello_world","version":"0.0.0","source_cid":"QmdXbYRaXFBwH1pd1G7WJEAzg4Binxvc4RySv3qke2S5H3","abi_cid":null,"dependencies":[],"yanked":false}}
+{"0.0.0":{"name":"hello_world","version":"0.0.0","source_cid":"QmdXbYRaXFBwH1pd1G7WJEAzg4Binxvc4RySv3qke2S5H3","abi_cid":null,"dependencies":[],"yanked":false},"0.0.1":{"name":"hello_world","version":"0.0.1","source_cid":"QmShdxhzp5LHJbKwZw8K4BZxwnuTK9x4RgXQH5yhoqmf9f","abi_cid":null,"dependencies":[{"package_name":"std","version":"0.68.7"}],"yanked":false}}
