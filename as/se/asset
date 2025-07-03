@@ -1,0 +1,1 @@
+{"0.26.0":{"name":"asset","version":"0.26.0","source_cid":"QmToC8vjbvg5roDW5mgdMBy9NMjgBAVL52uDDa97jVndYa","abi_cid":null,"dependencies":[{"package_name":"src20","version":"0.8.0"},{"package_name":"src7","version":"0.8.0"},{"package_name":"std","version":"0.68.7"}],"yanked":false}}
