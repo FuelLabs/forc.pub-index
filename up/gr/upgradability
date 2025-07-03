@@ -1,0 +1,1 @@
+{"0.26.0":{"name":"upgradability","version":"0.26.0","source_cid":"QmQBf8VPWtYKBM1t5udMovfbaq8j98mq35yLADqrZxsgjo","abi_cid":null,"dependencies":[{"package_name":"src14","version":"0.8.0"},{"package_name":"src5","version":"0.8.0"},{"package_name":"std","version":"0.68.7"}],"yanked":false}}
