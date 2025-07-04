@@ -1,0 +1,1 @@
+{"0.8.1":{"name":"src17","version":"0.8.1","source_cid":"QmXDCthSoywN5QxQTAF27drdaz5m7muzMBKhHHwE96AGuX","abi_cid":null,"dependencies":[{"package_name":"merkle","version":"0.26.0"},{"package_name":"std","version":"0.68.7"}],"yanked":false}}
