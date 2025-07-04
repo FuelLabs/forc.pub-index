@@ -1,0 +1,1 @@
+{"0.26.1":{"name":"admin","version":"0.26.1","source_cid":"QmTg3UpUh3RTZ9LWJX94ekCracGkmEP9QTrouTfUnunRuo","abi_cid":null,"dependencies":[{"package_name":"ownership","version":"0.26.0"},{"package_name":"src5","version":"0.8.0"},{"package_name":"std","version":"0.68.7"}],"yanked":false}}
