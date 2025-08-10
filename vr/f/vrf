@@ -1,1 +1,1 @@
-{"0.1.0":{"name":"vrf","version":"0.1.0","source_cid":"QmV46dCXWMxJnXJ3tGCs3rcY2vQHwQiHuM8oayko1mwRrL","abi_cid":null,"dependencies":[{"package_name":"std","version":"0.68.7"}],"yanked":false}}
+{"0.1.0":{"name":"vrf","version":"0.1.0","source_cid":"QmV46dCXWMxJnXJ3tGCs3rcY2vQHwQiHuM8oayko1mwRrL","abi_cid":null,"dependencies":[{"package_name":"std","version":"0.68.7"}],"yanked":false},"0.1.1":{"name":"vrf","version":"0.1.1","source_cid":"QmeEaJHzQBAtCssrTZ3NXiiSUFXc6BLoM2Q5e63TKfoH7G","abi_cid":null,"dependencies":[{"package_name":"std","version":"0.68.7"}],"yanked":false}}
